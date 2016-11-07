@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: b397cf85ef0ae454ebbd01c47098dcaf
+timeCreated: 1474975045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character_HJT_0
+    21300002: Character_HJT_1
+    21300004: Character_HJT_2
+    21300006: Character_HJT_3
+    21300008: Character_HJT_4
+    21300010: Character_HJT_5
+    21300012: Character_HJT_6
+    21300014: Character_HJT_7
+    21300016: Character_HJT_8
+    21300018: Character_HJT_9
+    21300020: Character_HJT_10
+    21300022: Character_HJT_11
+    21300024: Character_HJT_12
+    21300026: Character_HJT_13
+    21300028: Character_HJT_14
+    21300030: Character_HJT_15
+    21300032: Character_HJT_16
+    21300034: Character_HJT_17
+    21300036: Character_HJT_18
+    21300038: Character_HJT_19
+    21300040: Character_HJT_20
+    21300042: Character_HJT_21
+    21300044: Character_HJT_22
+    21300046: Character_HJT_23
+    21300048: Character_HJT_24
+    21300050: Character_HJT_25
+    21300052: Character_HJT_26
+    21300054: Character_HJT_27
+    21300056: Character_HJT_28
+    21300058: Character_HJT_29
+    21300060: Character_HJT_30
+    21300062: Character_HJT_31
+    21300064: Character_HJT_32
+    21300066: Character_HJT_33
+    21300068: Character_HJT_34
+    21300070: Character_HJT_35
+    21300072: Character_HJT_36
+    21300074: Character_HJT_37
+    21300076: Character_HJT_38
+    21300078: Character_HJT_39
+    21300080: Character_HJT_40
+    21300082: Character_HJT_41
+    21300084: Character_HJT_42
+    21300086: Character_HJT_43
+    21300088: Character_HJT_44
+    21300090: Character_HJT_45
+    21300092: Character_HJT_46
+    21300094: Character_HJT_47
+    21300096: Character_HJT_48
+    21300098: Character_HJT_49
+    21300100: Character_HJT_50
+    21300102: Character_HJT_51
+    21300104: Character_HJT_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character_HJT_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 399
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 401
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 399
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 409
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_5
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 402
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 401
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_7
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 403
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 404
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 297
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 351
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 345
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 353
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 281
+        width: 97
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 303
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_16
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 299
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_17
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 305
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_18
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 286
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 355
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 310
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 309
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 307
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_23
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 280
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 196
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 198
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 199
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 195
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 198
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 202
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 208
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 208
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 201
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_33
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 201
+        width: 153
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 117
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 124
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 131
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 151
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 152
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_42
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 150
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_43
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 148
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 16
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_48
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 10
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_49
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 11
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_50
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 12
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_51
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 11
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_HJT_52
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 10
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

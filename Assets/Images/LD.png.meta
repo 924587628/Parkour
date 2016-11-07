@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: fabb33a0c5eb4b04bb51ef007180d517
+timeCreated: 1475117786
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LD_0
+    21300002: LD_1
+    21300004: LD_2
+    21300006: LD_3
+    21300008: LD_4
+    21300010: LD_5
+    21300012: LD_6
+    21300014: LD_7
+    21300016: LD_8
+    21300018: LD_9
+    21300020: LD_10
+    21300022: LD_11
+    21300024: LD_12
+    21300026: LD_13
+    21300028: LD_14
+    21300030: LD_15
+    21300032: LD_16
+    21300034: LD_17
+    21300036: LD_18
+    21300038: LD_19
+    21300040: LD_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 124
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 207
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 206
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 127
+        width: 90
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 202
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 151
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 153
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 187
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 150
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 138
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 103
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 48
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 222
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 187
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LD_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 152
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
